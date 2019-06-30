@@ -5,7 +5,7 @@ end
 
 def my_hash
   newHash = {
-    species: Bugbear
+    species: "Bugbear"
   }
   return newHash
 end
