@@ -4,9 +4,10 @@ def new_hash
 end
 
 def my_hash
-  return {
+  newHash = {
     species: Bugbear
   }
+  return newHash
 end
 
 def pioneer
